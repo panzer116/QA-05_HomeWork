@@ -69,17 +69,17 @@ film = {
 }
 
 
-for key in film.keys():
-    print(key)
-
-
-for value in film.values():
-    print(value)
-
-
-for key, value in film.items():
-    print(key, ':', value)
-
+# for key in film.keys():
+#     print(key)
+# print('\n')
+#
+# for value in film.values():
+#     print(value)
+# print('\n')
+#
+# for key, value in film.items():
+#     print(key, ':', value)
+# print('\n')
 
 """
 3.6. Найдите сумму всех значений в словаре my_dictionary = {'num1': 375, 'num2': 567, 'num3': -37, 'num4': 21}
